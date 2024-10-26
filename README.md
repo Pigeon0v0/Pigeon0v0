@@ -38,6 +38,7 @@
 <p>
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/CSharp-0078D6?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white%22" />
 </p>
 
 <p>
