@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1922" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1851" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            768 issue comments
+                            770 issue comments
                         </div>
                     </section>
                     <section>
@@ -1315,6 +1315,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#5581 PCL2崩溃</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Ovear-Mitama in <span class="repo">Hex-Dragon/PCL2</span></div>
+                                    <div class="comment">把 PCL 放在别的位置试试，比如桌面新建一个文件夹丢进去</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#170 启动器无法运行</span>
                                     </div>
                                 </div>
@@ -1497,48 +1514,6 @@ dev: 同步 StackInstall 修改</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 5 commits in
-                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4a8e59c</div>
-                                        <div class="message">修复 actions 的一些 bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6de688f</div>
-                                        <div class="message">Merge pull request #169 from PCL-Community/ui
-
-调整个性化设置中的一些 UI 细节</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8d13bb1</div>
-                                        <div class="message">ui: 调整了一下 Card 的边框距离</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c873416</div>
-                                        <div class="message">Merge pull request #168 from PCL-Community/clip-res-fix
-
-修复一些剪贴板资源识别相关的 Bug</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b8ae0ab</div>
-                                        <div class="message">fix: Curse 部分资源 Slug 相同导致不能正确跳转
-fix: 部分意外分类的资源标题栏分类不正确
-fix: 在启动器重启后不会自动识别剪贴板</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1656,7 +1631,7 @@ fix: 在启动器重启后不会自动识别剪贴板</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Feb 2025, 15:14:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Feb 2025, 16:19:34 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
