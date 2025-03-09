@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1355" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1389" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            857 issue comments
+                            860 issue comments
                         </div>
                     </section>
                     <section>
@@ -1304,12 +1304,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">k4yt3x/video2x</span>
+                                        Commented on
+                                        <span class="issue">#5814 每次打开游戏时mc内显卡占用率总保持50%以下</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by fish4672 in <span class="repo">Hex-Dragon/PCL2</span></div>
+                                    <div class="comment">先关了 如果之后证实是启动器问题再打开 = =</div>
                                 </div>
                             </section>
                         </div>
@@ -1317,12 +1321,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">AaronFeng753/Waifu2x-Extension-GUI</span>
+                                        Closed
+                                        <span class="issue">#5814 每次打开游戏时mc内显卡占用率总保持50%以下</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by fish4672 in <span class="repo">Hex-Dragon/PCL2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1334,13 +1342,30 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#5438 PCL2在部分Java版本下会显示错误消息为乱码</span>
+                                        <span class="issue">#318 Cleanroom有关问题 和 Java 搜索及选择的问题</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by janhous233 in <span class="repo">Hex-Dragon/PCL2</span></div>
-                                    <div class="comment">和 #4700 确实应该是同一个原因
-@LTCatt 要不把这个关了？</div>
+                                    <div>opened by magojohnji in <span class="repo">PCL-Community/PCL2-CE</span></div>
+                                    <div class="comment">JavaPath 就不应该出现在这个里面...
+剩下的做个默认扫描列表吧...</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#5819 下载列表导出整合包？？？</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zlink2010 in <span class="repo">Hex-Dragon/PCL2</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1352,29 +1377,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#5817 `主页`卡片的投稿提示链接仍指向 #2528</span>
+                                        <span class="issue">#5819 下载列表导出整合包？？？</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by CreeperIsASpy in <span class="repo">Hex-Dragon/PCL2</span></div>
-                                    <div class="comment">#2528 提供了投稿须知，直接跳转到 Submit 页面不太好（</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#5815 内存清理的提示</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ahasasjeb in <span class="repo">Hex-Dragon/PCL2</span></div>
-                                    <div class="comment">不如直接加个使用频率限制...（</div>
+                                    <div>opened by zlink2010 in <span class="repo">Hex-Dragon/PCL2</span></div>
+                                    <div class="comment">#5819</div>
                                 </div>
                             </section>
                         </div>
@@ -1490,7 +1498,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Mar 2025, 17:12:19 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Mar 2025, 18:14:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
