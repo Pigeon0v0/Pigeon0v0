@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1746" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1398" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            875 issue comments
+                            876 issue comments
                         </div>
                     </section>
                     <section>
@@ -250,12 +250,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 19 commits)</small>
+                    <small class="h-details">(computed from last 17 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 213.7 characters per line of code written</li>
+                        <li>Has approximately 181.4 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -1313,6 +1313,23 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#5978 启动游戏时 Classpath 不会按照 JSON 顺序写入</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Pigeon0v0 in <span class="repo">Hex-Dragon/PCL2</span></div>
+                                    <div class="comment">补上了核心 JSON 与错误报告，cc @LTCatt ？</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -1380,113 +1397,6 @@
                                 <div class="details">
                                     <div>opened by starFaith2007 in <span class="repo">PCL-Community/PCL2-CE</span></div>
                                     <div class="comment">参考官方配置文件的用法</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 86 commits in
-                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4e1d6ec</div>
-                                        <div class="message">Merge pull request #331 from PCL-Community/feat/#84
-
-feat(Java): 允许全局禁用 Java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b13d3f2</div>
-                                        <div class="message">Merge pull request #339 from PCL-Community/link
-
-给某项功能暂时干掉</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#437128b</div>
-                                        <div class="message">给某项功能暂时干掉</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#671ae05</div>
-                                        <div class="message">Update README.md</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0b6e54</div>
-                                        <div class="message">在特定情况下，即使可用内存大于预计分配的内存，仍出现“（可用 xx GB）“字样
-Fixes #5721</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d885090</div>
-                                        <div class="message">Revert(ModSetup):删除调试痕迹</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f6b283</div>
-                                        <div class="message">Revert(Setup&amp;Launch):撤销更改</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#013c64b</div>
-                                        <div class="message">fix(PageVersionSetup):没有增加对应内容
-chore(Setup): 修改描述</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c24fb4e</div>
-                                        <div class="message">fix(ModLaunch):逻辑错误导致版本设置的使用 JLW 选项无效</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60d14e8</div>
-                                        <div class="message">feat(setup):允许禁用 jlw</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e973b11</div>
-                                        <div class="message">fix(McInstallLoader):始终将 OptiFine 作为 Mod 安装</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bb560e4</div>
-                                        <div class="message">Apply suggestions from code review
-
-Co-authored-by: Pigeon0v0 &lt;60414767+Pigeon0v0@users.noreply.github.com&gt;
-Co-authored-by: wyc-26 &lt;wuyuncheng26@foxmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1b24e3</div>
-                                        <div class="message">Apply suggestions from code review
-
-Co-authored-by: wyc-26 &lt;wuyuncheng26@foxmail.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0c37755</div>
-                                        <div class="message">feat(Java): 允许全局禁用 Java</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ae6652</div>
-                                        <div class="message">Merge branch 'main' into moyuan-patch-1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcca102</div>
-                                        <div class="message">Merge branch 'main' into moyuan-patch-1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d024113</div>
-                                        <div class="message">chore(ui): 同步光影和资源包下载页面版本预设项</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7dff62a</div>
-                                        <div class="message">feat: output device change</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5034866</div>
-                                        <div class="message">Merge branch 'main' into NAudio</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9786a44</div>
-                                        <div class="message">chore: 接口</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1592,7 +1502,7 @@ Co-authored-by: wyc-26 &lt;wuyuncheng26@foxmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Mar 2025, 15:13:55 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Mar 2025, 16:18:57 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
