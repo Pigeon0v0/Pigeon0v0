@@ -1,4 +1,4 @@
-<img align="right" src="https://ghproxy.com/https://raw.githubusercontent.com/Pigeon0v0/Pigeon0v0/master/github-metrics.svg" alt="Metrics">
+<img align="right" src="https://cdn.crashmc.com/https://raw.githubusercontent.com/Pigeon0v0/Pigeon0v0/master/github-metrics.svg" alt="Metrics">
 
 ---
 
