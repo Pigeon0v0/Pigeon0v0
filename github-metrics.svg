@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1439" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1419" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            940 issue comments
+                            941 issue comments
                         </div>
                     </section>
                     <section>
@@ -1317,6 +1317,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#558 启动器无法更新</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by zhangzihan114514 in <span class="repo">PCL-Community/PCL2-CE</span></div>
+                                    <div class="comment">已知问题</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#6274 在2.10.0 PCL版本中使用正版账号登录后无法更改皮肤</span>
                                     </div>
                                 </div>
@@ -1374,29 +1391,6 @@
                                 <div class="details">
                                     <div>opened by 2weima666 in <span class="repo">Hex-Dragon/PCL2</span></div>
                                     <div class="comment">网络问题，挂加速器</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#551 无法安装Optifine</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Boundary76 in <span class="repo">PCL-Community/PCL2-CE</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            <i>无法复现，检查自己的网络</i>
-                                            我这边复现了，也试了PCL2官方原版，发现正常下载，就PCL2社区版 2.10.6 无法正常下载安装Optifine
-                                        </i>
-                                        用 2.10.7 再试
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1517,7 +1511,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 May 2025, 20:29:24 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 May 2025, 21:22:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
