@@ -51,6 +51,4 @@
 
 ### 📫 召唤 / Contact:
 
-[![📫 Email](https://img.shields.io/badge/%F0%9F%93%AB%20Email-PigeonA0v0%40outlook.com-%2357728B?style=for-the-badge)](mailto:PigeonA0v0@outlook.com)
-[![🐧 QQ](https://img.shields.io/badge/QQ-1094728939-0078D6.svg?style=for-the-badge&logo=tencentqq&logoColor=white)](https://wpa.qq.com/msgrd?v=3&uin=1094728939&site=qq&menu=yes&jumpflag=1)
 [![📺 Bilibili](https://img.shields.io/badge/Bilibili-鸽秋咕咕咕-00a1d6.svg?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/354878609)
