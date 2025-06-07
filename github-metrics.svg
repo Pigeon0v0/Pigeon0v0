@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2115" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1758" class="">
     <defs>
         <style/>
     </defs>
@@ -1317,6 +1317,23 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
+                                        <span class="issue">#777 允许将 PCL 本身的错误信息复制到剪贴板</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by NT-AUTHORITY in <span class="repo">PCL-Community/PCL2-CE</span></div>
+                                    <div class="comment">这个弹窗的内容会在日志中包含，所以直接提交日志就行...</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
                                         <span class="issue">#6496 我建议让赞助过（满一定金额）的人允许使用联机功能</span>
                                     </div>
                                 </div>
@@ -1473,126 +1490,6 @@ fix: 深色主题的一些问题</div>
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 24 commits in
-                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">link-port</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b399f7c</div>
-                                        <div class="message">chore: 压缩错文件了</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e47847b</div>
-                                        <div class="message">fix: 解压地址错误</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2e95eb</div>
-                                        <div class="message">feat: 使用 SQLite 替换模组文本数据库 (#768)
-
-* feat: 使用 SQLite 替换模组文本数据库
-
-* fix: reader 没有 close
-
-* style: 格式
-
-* chore: 资源释放
-
-* feat: runtime 更换解压目录
-
-* chore: upx 压缩运行时
-
-* perf: 优化加载</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2af86d9</div>
-                                        <div class="message">Delete .github/workflows/autoCHANGELOG.yml</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb460ef</div>
-                                        <div class="message">chore(issue_template): add some check items</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b9395b</div>
-                                        <div class="message">perf: 优化更新体验</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d2863a</div>
-                                        <div class="message">perf: 优化代码</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#555e5b2</div>
-                                        <div class="message">fix: 修复瞅眼服务器解析可能产生的异常 (#763)
-
-* fix: 瞅眼服务器乱码字符实现的类型转换问题
-
-* feat: MCPing 信息解析兼容部分不规范的返回格式</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7e93d0f</div>
-                                        <div class="message">bump: 没改 version code</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8b56c7f</div>
-                                        <div class="message">bump: 2.11.2-beta.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8755920</div>
-                                        <div class="message">fix: 瞅眼服务器地址解析</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6bb0897</div>
-                                        <div class="message">Merge branch 'dev' of github.com:PCL-Community/PCL2-CE into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2366eaa</div>
-                                        <div class="message">fix: 内存泄露</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffa2952</div>
-                                        <div class="message">Merge pull request #760 from PCL-Community/feat/#758
-
-feat: 瞅眼服务器延迟测试和 UI 改善</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bd958a2</div>
-                                        <div class="message">Merge pull request #761 from MinecraftYJQ/dev
-
-feat: 添加瞅眼服务器的随机字符串</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ae266aa</div>
-                                        <div class="message">fix: 服务器描述随机字符的 DispatcherTimer 存在内存泄漏</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#27b84e5</div>
-                                        <div class="message">feat: 添加回删除的空行</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8bdfd9a</div>
-                                        <div class="message">feat: 添加瞅眼服务器的随机字符串</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a50a231</div>
-                                        <div class="message">feat: 瞅眼服务器延迟测试</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a05aef</div>
-                                        <div class="message">fix(PageVersionCompResource): 下载页面版本信息自动填充功能失效
-不是这谁加的这一行……
-PageComp 第 96 行已经设为 Nothing 了</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1705,7 +1602,7 @@ PageComp 第 96 行已经设为 Nothing 了</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Jun 2025, 01:13:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Jun 2025, 02:21:23 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
