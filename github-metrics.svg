@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1752" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1376" class="">
     <defs>
         <style/>
     </defs>
@@ -250,12 +250,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 15 commits)</small>
+                    <small class="h-details">(computed from last 16 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 59.6 characters per line of code written</li>
+                        <li>Has approximately 59.8 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
@@ -1344,6 +1344,27 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">link-port</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#4f063f6</div>
+                                        <div class="message">imp: NAID 令牌过期后不再尝试刷新令牌
+chore: 移除硬编码大厅服务器地址</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">PCL-Community/PCL-Community.github.io</span>
                                     </div>
                                 </div>
@@ -1402,200 +1423,6 @@ Signed-off-by: Pigeon0v0 &lt;60414767+Pigeon0v0@users.noreply.github.com&gt;</di
                                     <div>opened by unnisjaaljilbc in <span class="repo">Meloong-Git/PCL</span></div>
                                     <div class="comment">其他启动器没这问题是因为压根没 Wrapper 和 ForgeInstaller 吧？
 HMCL 和 BakaXL 都是自己实现的 Forge 自动安装</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 20 commits in
-                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#385c2ac</div>
-                                        <div class="message">fix(SavesInfo): 1.8以下的版本没有difficulty导致报错 (#977)
-
-* fix:1.8以下版本没有difficulty导致报错
-
-* 改回去 :(</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffcefc1</div>
-                                        <div class="message">chore(Saves): 优化左栏按钮</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15aec73</div>
-                                        <div class="message">fix(Saves): 左侧栏选中项目不正确</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96820c6</div>
-                                        <div class="message">chore(Profile): 小改 UI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5d8678</div>
-                                        <div class="message">feat(log): 细化日志输出</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11dc940</div>
-                                        <div class="message">feat: 原理图管理支持显示子文件夹 (#971)
-
-* feat: 原理图管理页支持显示子目录
-
-实现原理图资源管理中的文件夹浏览功能，包括：
-1. 在根目录显示子目录项
-2. 支持进入和返回目录操作
-3. 为文件夹项添加特殊UI显示和排序逻辑
-
-clone #965
-
-* Update ModLocalCompFolder.vb
-
-移除多余的检测文件数量
-
-* feat: 为.litematic文件添加NBT数据解析和显示功能
-
-添加对.litematic文件的NBT数据解析，包括创建/修改时间、包围盒大小、区域数量、总方块数和总体积等信息。
-在资源详情页面显示这些额外信息，提升用户对投影原理图文件的了解。
-
-* Update Plain Craft Launcher 2/Pages/PageVersion/PageVersionCompResource.xaml.vb
-
-Co-authored-by: tangge233 &lt;50769997+tangge233@users.noreply.github.com&gt;
-
-* Update Plain Craft Launcher 2/Modules/Minecraft/ModLocalComp.vb
-
-Co-authored-by: tangge233 &lt;50769997+tangge233@users.noreply.github.com&gt;
-
-* Apply suggestions from code review
-
-Co-authored-by: tangge233 &lt;50769997+tangge233@users.noreply.github.com&gt;
-
-* Apply suggestions from code review
-
-Co-authored-by: tangge233 &lt;50769997+tangge233@users.noreply.github.com&gt;
-
----------
-
-Co-authored-by: tangge233 &lt;50769997+tangge233@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fea0e09</div>
-                                        <div class="message">fix(ModLaunch): 修复检查存档快捷启动失败的问题 (#975)
-
-Closes PCL-Community/PCL2-CE#746</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fcb44ca</div>
-                                        <div class="message">feat(Saves): 展示"是否允许作弊"和"游戏时长" (#973)
-
-* feat:是否允许作弊和游戏时长获取
-
-* 加个title
-
-* 允许通过种子跳转Chunkbase
-
-* change
-
-* 阻止预览版跳转到Chunkbase</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc75acf</div>
-                                        <div class="message">fix(SnapLite): 这里不能用异步，不会等待……</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4105f4d</div>
-                                        <div class="message">feat(SnapLite): 允许清理无用文件</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85eb33f</div>
-                                        <div class="message">fix(Java): 尽可能区分 OpenJDK 与 OracleJDK</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3c231d</div>
-                                        <div class="message">fix(Tip): 检查 UTF8 而不是是不是 GBK</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b95e95</div>
-                                        <div class="message">feat(Init): 删除旧的日志文件</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#207b7e2</div>
-                                        <div class="message">fix(Tip): 可能会错误的提醒启动路径问题从而造成一些困扰</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fe0d5f5</div>
-                                        <div class="message">bump: 2.11.9-beta.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#96d0b43</div>
-                                        <div class="message">feat(SavesInfo): 支持简单查看存档信息</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b746e6c</div>
-                                        <div class="message">fix(SnapLite): 无法正确备份</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#613e2f8</div>
-                                        <div class="message">feat(SnapLite): 支持存档备份 (#945)
-
-* feat(SnapLite): 完成接口设计
-
-* chore(SnapLite): 迁移到 Utils
-
-* chore(SnapLite): Rider 怎么没选中部分文件
-
-* feat(SnapLite): 初步完成快照创建
-
-* perf(SnapLite): 改用 SHA512 以降低哈希冲突概率
-
-* feat(SnapLite): 支持导出成 zip 压缩包
-
-* chore(SnapLite): 修改变量名
-
-* fix(SnapLite): 一小处内存泄漏
-
-* chore(SnapLite): 改个文件名
-
-* feat(SnapLite): 先把页面写了
-
-* chore(SnapLite): 加入标题展示
-
-* feat(SnapTest): 完成编写
-
-* feat(SnapLite): 基本完成主体功能
-
-* perf(SnapLite): 优化 UI
-
-* fix(SnapLite): 会阻止世界删除操作
-
-* chore(Comp): 提示小改动
-
-* feat(Comp): 粘贴操作放入 Loader 中进行
-
-* feat(SnapLite): 改用没人喜欢的 Loader :(
-
-* chore(SnapLite): 加个小提示
-
-* fix(SnapLite): 不显示 Loader
-
-* feat(SnapLite): 加入 ACID 特性以确保失败的备份不会污染数据库</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#60b8707</div>
-                                        <div class="message">feat(tools): 瞅眼服务器支持展示默认图标</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e2b18c9</div>
-                                        <div class="message">[skip ci] fix(PageOtherTest): 添加默认服务器图标处理逻辑 (#970)
-
-Co-authored-by: 在田 高 &lt;Bart_Bart11@outlook.com&gt;</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1711,7 +1538,7 @@ Co-authored-by: 在田 高 &lt;Bart_Bart11@outlook.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jul 2025, 23:18:42 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Jul 2025, 00:21:16 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
