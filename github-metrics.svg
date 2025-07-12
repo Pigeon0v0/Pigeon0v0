@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1408" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1746" class="">
     <defs>
         <style/>
     </defs>
@@ -250,7 +250,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 62 commits)</small>
+                    <small class="h-details">(computed from last 63 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1307,6 +1307,146 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 32 commits in
+                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix-link-ui</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#cb06ec4</div>
+                                        <div class="message">chore(submodule): update to 14b5eab84664ea8922b20ca7e53dbc80e7b8091e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5b129a2</div>
+                                        <div class="message">feat(LifeCycle): 加入更多的可观察日志</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b02ccef</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/dev' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#84e7b6f</div>
+                                        <div class="message">perf(MsLogin): 优化 MsLoginStep1 阶段的代码</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0f6fb5</div>
+                                        <div class="message">chore(submodule): update to 7b8392bd46482568ec7c1214d0afcd4eace31034</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1d2cd36</div>
+                                        <div class="message">Merge remote-tracking branch 'origin/dev' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2967663</div>
+                                        <div class="message">chore(MsLogin): 修改验证字段的参数使用 JObject 构造</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91b8b0b</div>
+                                        <div class="message">chore(submodule): update to 9191dd00802be014f7b04a2d3c1a2009281d8fc1</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#070014e</div>
+                                        <div class="message">fix(MsLogin): 尝试性修复正版验证第五步错误</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3e53081</div>
+                                        <div class="message">chore: add tracking branch to submodule</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6380642</div>
+                                        <div class="message">feat(CustomDownload): 为自定义下载添加 User-Agent 支持#1041 (#1058)
+
+* feat(下载): 为自定义下载添加 User-Agent 支持
+
+* refactor(网络请求): 重构自定义User-Agent处理逻辑
+
+* feat(设置): 添加自定义UserAgent设置项并实现界面绑定
+
+* feat(设置): 添加CustomUserAgent到注册表设置并更新相关引用
+
+* fix: 将Setup替换为ModSetup以修正用户代理设置
+
+* Update Plain Craft Launcher 2/Pages/PageSetup/ModSetup.vb
+
+Co-authored-by: Pigeon0v0 &lt;60414767+Pigeon0v0@users.noreply.github.com&gt;
+
+* Update Plain Craft Launcher 2/Pages/PageOther/PageOtherTest.xaml.vb
+
+Co-authored-by: Pigeon0v0 &lt;60414767+Pigeon0v0@users.noreply.github.com&gt;
+
+* again
+
+* 这下肯定好了
+
+* Update Plain Craft Launcher 2/My Project/Settings.settings
+
+---------
+
+Co-authored-by: tangge233 &lt;50769997+tangge233@users.noreply.github.com&gt;
+Co-authored-by: Pigeon0v0 &lt;60414767+Pigeon0v0@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21e31f0</div>
+                                        <div class="message">Merge branch 'feat/new-update' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae6de99</div>
+                                        <div class="message">Merge branch 'export-log' into dev</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#03176d9</div>
+                                        <div class="message">Merge branch 'dev' into export-log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7575a4c</div>
+                                        <div class="message">imp(log): 添加各种日志相关操作</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#71e49fe</div>
+                                        <div class="message">feat(update): 使用核心库更新服务代替原文件替换过程</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffeb113</div>
+                                        <div class="message">fix(log): 修正工程文件</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c764b6b</div>
+                                        <div class="message">Merge branch 'dev' into export-log</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f970ce9</div>
+                                        <div class="message">chore(log): 解决冲突</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9b6b65f</div>
+                                        <div class="message">feat(log): 添加导出日志页面
+
+* feat: 添加导出日志页面
+
+* feat: 修改部分内容，替换 WriteAllText 为 Copy
+
+* feat: 添加内容
+
+* feat: 我也不知道在干嘛
+
+* feat: 修改注释
+
+---------
+
+Co-authored-by: Minecraft一角钱 &lt;122196845+MinecraftYJQ@users.noreply.github.com&gt;
+Co-authored-by: wyc-26 &lt;wuyuncheng26@foxmail.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1374,23 +1514,6 @@
                                 <div class="details">
                                     <div>opened by xiaochen296 in <span class="repo">PCL-Community/PCL2-CE</span></div>
                                     <div class="comment">你不要自定义端口号试试呢</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#1075 正版账号无法登录</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Mo123ming in <span class="repo">PCL-Community/PCL2-CE</span></div>
-                                    <div class="comment">问就是我只改了 Step 1，后面啥也没改</div>
                                 </div>
                             </section>
                         </div>
@@ -1511,7 +1634,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jul 2025, 03:13:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jul 2025, 04:17:49 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
