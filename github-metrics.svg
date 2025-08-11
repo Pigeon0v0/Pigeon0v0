@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1354" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1630" class="">
     <defs>
         <style/>
     </defs>
@@ -250,13 +250,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 26 commits)</small>
+                    <small class="h-details">(computed from last 27 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 50.2 characters per line of code written</li>
-                        <li>Mostly pushes code around 11:00</li>
+                        <li>Mostly pushes code around 21:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
                 </div>
@@ -1319,6 +1319,104 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 17 commits in
+                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b55f0f1</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@d71af4026ea648b8e93640c19600247bcf937cd4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#94d16e5</div>
+                                        <div class="message">Legacy Fabric 手动安装页面文案优化 (#1339)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9c221c7</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@548a61d9c40e1f0a9e16fa231b964b9ae3730bc6</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#65d3390</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@978c5ad203b32c54f81ef8d80b450d5d7b54a8c4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8cd0eab</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@3e7b0ad72a1026dc0c4d7acb775f2b814506dc26</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fc31f6f</div>
+                                        <div class="message">feat(identify): 将识别码移入 Core 中</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#59173c1</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@636b32cb6d5f44baf2f7fea21c9805460161f3b3</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f69a93d</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@7344721400356aaff9ba03fc75abea5fcf5d17be</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#09ae611</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@c487e6d53b26e78848938a220b2262431c28c95e</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#67d91fb</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@0700b42da5ffad7a6214f5b6d57a7392a5343316</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77cd4be</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@49da00abda1464e405fb02a8ebd0cff4d5bd6934</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ae2bc96</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@8537b37d60e9aef57fce92eaea2689ab62b884e4</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5844089</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@b3f1d0c59cda3f39806059c9f19da9f8c2eba7cd</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8956df4</div>
+                                        <div class="message">refactor(Setup): 迁移配置系统 (#1313)
+
+* feat(Setup): 迁移配置系统
+
+* refactor(Setup): 彻底挖掉旧 SetupEntry
+
+* feat(Setup): 添加原本不经过配置模块设置的配置项，支持直接通过游戏路径获取配置项
+
+* revert(Setup): 删掉直接通过路径访问实例设置项的方法
+
+* refactor(Setup): 继续迁移配置系统，预计只剩下 bug 修复工作了
+
+* refactor(Setup): 迁移至更加新的设置项 API
+
+* chore(Setup): 添加动态生成的 SystemSystemUpdateBranch</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#224c0dc</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@acc819824c2ac8deb287615a399d893e0d24a40f</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8c9d08</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@e0970388f02ecd2329d98eee801ba199c0bffc29</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#deceedd</div>
+                                        <div class="message">chore: 完善带有 Async 修饰的异步逻辑</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1382,27 +1480,6 @@
                                         <div class="sha">#6abcc77</div>
                                         <div class="message">feat: 支持解析大厅编号
 dev: reduce warnings &amp; clean up</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PCL-Community/PCL.Core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">link</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#86b6428</div>
-                                        <div class="message">feat: 端口转发
-fix: Setup 使用有误</div>
                                     </div>
                                 </div>
                             </section>
@@ -1524,7 +1601,7 @@ fix: Setup 使用有误</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Aug 2025, 01:18:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Aug 2025, 02:26:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
