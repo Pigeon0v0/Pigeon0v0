@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1777" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1430" class="">
     <defs>
         <style/>
     </defs>
@@ -209,7 +209,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    10 Languages
+                    9 Languages
                 </h2>
             </section>
             <section class="column">
@@ -250,7 +250,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 23 commits)</small>
+                    <small class="h-details">(computed from last 24 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1308,12 +1308,107 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">Redlnn/lemon-new-tab-page</span>
+                                        Pushed 5 commits in
+                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b08902f</div>
+                                        <div class="message">ref: 使用 Core 代码 (#1474)
+
+* ref: 使用 Core
+
+* more
+
+* timeutils
+
+* exception
+
+* uiext
+
+* system theme
+
+* select file/folder dialog
+
+* randomutils
+
+---------
+
+Co-authored-by: 任天天 &lt;61044187+ruattd@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e812978</div>
+                                        <div class="message">feat(link): 更新 EasyTier 到 2.4.3 (#1476)
+
+fix(link): 不应当检测 wintun.dll</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#45a5342</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@0d9837493834405c5a3ebec159954a59dc1f0a7b</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2991b6c</div>
+                                        <div class="message">submodule: update to PCL-Community/PCL.Core@bf7a31e95c7bdeef568fc64b2c1ca9d609d58477</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64f79fd</div>
+                                        <div class="message">ci: 修复命令错误</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#1475 在添加整合包时可以直接输入链接来自动下载并安装这个整合包</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by yjl214 in <span class="repo">PCL-Community/PCL2-CE</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 1.5a6.491 6.491 0 00-5.285 2.715l1.358 1.358A.25.25 0 013.896 6H.25A.25.25 0 010 5.75V2.104a.25.25 0 01.427-.177l1.216 1.216a8 8 0 0114.315 4.03.748.748 0 01-.668.83.75.75 0 01-.824-.676A6.501 6.501 0 008 1.5zM.712 8.004a.75.75 0 01.822.67 6.501 6.501 0 0011.751 3.111l-1.358-1.358a.25.25 0 01.177-.427h3.646a.25.25 0 01.25.25v3.646a.25.25 0 01-.427.177l-1.216-1.216A8 8 0 01.042 8.827a.75.75 0 01.67-.823zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reopened
+                                        <span class="issue">#1475 在添加整合包时可以直接输入链接来自动下载并安装这个整合包</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by yjl214 in <span class="repo">PCL-Community/PCL2-CE</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#1475 在添加整合包时可以直接输入链接来自动下载并安装这个整合包</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by yjl214 in <span class="repo">PCL-Community/PCL2-CE</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1325,178 +1420,12 @@
                                     </svg>
                                     <div class="content">
                                         Commented on
-                                        <span class="issue">#1424 feat(Instance): 实例与整合包信息显示</span>
+                                        <span class="issue">#1475 在添加整合包时可以直接输入链接来自动下载并安装这个整合包</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Pigeon0v0 in <span class="repo">PCL-Community/PCL2-CE</span></div>
-                                    <div class="comment">ready 4 review</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 4 commits in
-                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">modpack-version</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ddfa4bf</div>
-                                        <div class="message">imp: UI</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c3e9d07</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/modpack-version' into modpack-version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#52b3b73</div>
-                                        <div class="message">Merge branch 'modpack-version' of https://github.com/PCL-Community/PCL2-CE-Pigeon into modpack-version</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#24f2c06</div>
-                                        <div class="message">feat(Modpack): 支持记录整合包信息</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 35 commits in
-                                        <span class="repo">PCL-Community/PCL2-CE-Pigeon</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">modpack-version</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#22ca8a9</div>
-                                        <div class="message">fix(ui): 修复 Tablet 设备默认实现失效 (#1467)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#819ff5b</div>
-                                        <div class="message">Merge remote-tracking branch 'origin/dev' into dev</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#163097a</div>
-                                        <div class="message">fix(launch-ui): 第三方登录描述长度过长的时候会导致 UI 显示不全</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c81c7b5</div>
-                                        <div class="message">docs: 优化 issue 模板描述</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1972bb8</div>
-                                        <div class="message">bump: 2.13.0-beta.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0d48cda</div>
-                                        <div class="message">chore(launch-ui): 信息展示居中而不是靠左</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e1394dd</div>
-                                        <div class="message">perf(ui): 智能暂停视频背景播放 (#1420)
-
-* perf(ui): 游戏启动后自动暂停视频背景
-
-* perf(ui): 最小化时暂停视频背景播放
-
-* feat(ui): 智能暂停相关选项
-
-* feat(ui): 换用SetupService
-
-* fix(ui): 解决刷新背景按钮状态不同步问题
-
-* fix(ui): 防止事件监听器被多次添加
-
-* fix(ui): 防止窗口最小化后视频背景仍在播放</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f5fb5fd</div>
-                                        <div class="message">submodule: update to PCL-Community/PCL.Core@d00d302c02507b8d1b5ab8cb2356eae0e28642ff</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#01d318c</div>
-                                        <div class="message">chore(build): 为 CI 构建添加 Debug 信息</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9c94bc6</div>
-                                        <div class="message">fix(PageLaunchLeft): 第三方验证服务器名称过长时的 UI 问题</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f620c45</div>
-                                        <div class="message">fix(ui): 修复主窗体为隐藏状态时激活不生效 (#1449)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5825b57</div>
-                                        <div class="message">fix(assets-get): 修复 Json.NET 在新框架下的异常行为 (#1451)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#86f19b0</div>
-                                        <div class="message">submodule: update to PCL-Community/PCL.Core@d409a84e257ad385fd8e6a6b49bed5bc7830f804</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c20544f</div>
-                                        <div class="message">fix(modpack): 临时性修复编码问题导致的压缩包解压失败</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5360639</div>
-                                        <div class="message">submodule: update to PCL-Community/PCL.Core@8ee7e6caba137195d0d641482c15a3e2702f0160</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#efe7c26</div>
-                                        <div class="message">fix(ui): 修复字体下拉框无法响应宽度更改 (#1445)
-
-顺手给 MyComboBox 支持了一下 MVVM</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57e25dc</div>
-                                        <div class="message">fix(backgroud): 加载视频失败时给出的提示存在错误 (#1441)
-
-imp(backgroud): 调整文件枚举方式和背景内容判空</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#89ef2f8</div>
-                                        <div class="message">fix(ui): 将窗口大小加载提前 (#1440)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2f0503</div>
-                                        <div class="message">refactor: 使用基于代码生成优化的正则表达式 (#1436)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b046058</div>
-                                        <div class="message">submodule: update to PCL-Community/PCL.Core@e56c0a9e1d917ccc37f56854bdb5603a4cfcb6b4</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 19 commits in
-                                        <span class="repo">PCL-Community/PCL.Core</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/et</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#30cf4a9</div>
-                                        <div class="message">Merge branch 'main' into feat/et</div>
-                                    </div>
+                                    <div>opened by yjl214 in <span class="repo">PCL-Community/PCL2-CE</span></div>
+                                    <div class="comment">设置 - 其他 - 自动识别剪贴板的资源链接</div>
                                 </div>
                             </section>
                         </div>
@@ -1617,7 +1546,7 @@ imp(backgroud): 调整文件枚举方式和背景内容判空</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Aug 2025, 15:16:00 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Aug 2025, 16:21:09 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
