@@ -23,8 +23,9 @@
 
 <p>
   <img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-18-ffb2bc?style=for-the-badge&logo=apple&logoColor=white%22" />
-  <img src="https://img.shields.io/badge/iPadOS-18-596ab2?style=for-the-badge&logo=apple&logoColor=white%22" />
+  <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-26-ffb2bc?style=for-the-badge&logo=apple&logoColor=white%22" />
+  <img src="https://img.shields.io/badge/iPadOS-26-596ab2?style=for-the-badge&logo=apple&logoColor=white%22" />
   <img src="https://img.shields.io/badge/macOS-15-ffab6b?style=for-the-badge&logo=apple&logoColor=white%22" />
 </p>
 
