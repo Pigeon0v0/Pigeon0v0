@@ -1530,7 +1530,7 @@ btw，如果方便的话，有必要往 cli 的 STUN 测试里加上 UPnP 测试
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Oct 2025, 04:18:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Oct 2025, 05:14:59 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
