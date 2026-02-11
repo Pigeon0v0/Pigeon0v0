@@ -43,7 +43,8 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Visual%20Studio%202022-ca95f7?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white%22" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%202026-ca95f7?style=for-the-badge&logo=visualstudio&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=white%22" />
 </p>
